@@ -36,6 +36,9 @@ This Services do not address anyone under the age of 13. We do not knowingly col
 Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
 
+Other
+Photocode is a standalone application powered by OpenAI. By using Photocode you comply with the OpenAI policies.
+
 Contact Us
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 Contact Information:
